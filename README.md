@@ -13,6 +13,9 @@
 - 💬 Ask me about **Backend development, Django, Django REST framework**
 
 - 📫 How to reach me **fareedsayedprsnl@gmail.com**
+### 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Fareed95&theme=onedark&title=-Followers)](https://github.com/Fareed95/github-profile-trophy)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
