@@ -142,6 +142,13 @@
     <a href="https://www.terraform.io/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="terraform" width="40" height="40"/>
     </a> 
+   <a href="https://render.com/" target="_blank" rel="noreferrer">
+    <img src="https://getdeploying.com/static/img/logos/render.90ffa0f776b5.png" alt="render" width="40" height="40"/>
+</a>
+
+<a href="https://vercel.com/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/vercel.svg" alt="vercel" width="40" height="40"/>
+    </a> 
 </p>
 
 <p align="center">
