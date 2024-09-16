@@ -136,10 +136,17 @@
 <a href="https://www.virtualbox.org/" target="_blank" rel="noreferrer"> 
         <img src="https://www.vectorlogo.zone/logos/virtualbox/virtualbox-icon.svg" alt="virtualbox" width="40" height="40"/> 
     </a>
+  <a href="https://www.ansible.com/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg" alt="ansible" width="40" height="40"/>
+    </a>
+    <a href="https://www.terraform.io/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="terraform" width="40" height="40"/>
+    </a> 
 </p>
 
 <p align="center">
   <img width="800" height="220" src="https://streak-stats.demolab.com?user=Fareed95&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
+
 </p>
 
 ---
