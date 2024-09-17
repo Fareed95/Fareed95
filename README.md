@@ -149,6 +149,12 @@
 <a href="https://vercel.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/vercel.svg" alt="vercel" width="40" height="40"/>
     </a> 
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
+</a>
+<a href="https://nodejs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
+</a>
 </p>
 
 <p align="center">
