@@ -1,12 +1,14 @@
 name: Waka Readme
 
 on:
-    schedule:
-        # Runs at 12am UTC daily
-        - cron: "0 0 * * *" 
-    push : 
-        branches :
-            - main
+  schedule:
+    - cron: "0 0 * * *"  # Runs daily at 12 AM UTC
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write  # Ensure the token has write permissions
 
 jobs:
   update-readme:
@@ -17,5 +19,6 @@ jobs:
       - uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}  # Add the GITHUB_TOKEN here
           SHOW_TIME: true
           SHOW_TOTAL: true
