@@ -1,0 +1,21 @@
+name: Waka Readme
+
+on:
+    schedule:
+        # Runs at 12am UTC daily
+        - cron: "0 0 * * *" 
+    push : 
+        branches :
+            - main
+
+jobs:
+  update-readme:
+    name: Update Readme with WakaTime
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: athul/waka-readme@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          SHOW_TIME: true
+          SHOW_TOTAL: true
