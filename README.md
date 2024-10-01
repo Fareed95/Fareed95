@@ -26,7 +26,7 @@
 
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+# Languages and Tools 
 <p align="left"> 
     <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> 
@@ -161,12 +161,14 @@
 
 </p>
 
+# Github Stats
 <p align="center">
   <img width="800" height="220" src="https://streak-stats.demolab.com?user=Fareed95&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
 
 </p>
 
 ---
+
 
 <p align="center">
   <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=Fareed95&show_icons=true&theme=vision-friendly-dark">
@@ -177,6 +179,8 @@
   <img src="https://komarev.com/ghpvc/?username=Fareed95&style=for-the-badge&color=orange" alt=""/>
 </div>
 
+
+# My Weekly performance ~
 <!--START_SECTION:waka-->
 
 ```txt
