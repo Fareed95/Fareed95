@@ -184,13 +184,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 19 hrs 56 mins
+Total Time: 20 hrs 44 mins
 
-Python       13 hrs 29 mins  ████████████████▒░░░░░░░░   65.78 %
-Bash         2 hrs 31 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.32 %
-Assembly     1 hr 23 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.81 %
-YAML         38 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.16 %
-JavaScript   36 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.00 %
+Python       15 hrs 24 mins  ██████████████████░░░░░░░   72.29 %
+Bash         1 hr 45 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.25 %
+Assembly     1 hr 23 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.55 %
+Other        34 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.66 %
+HTML         27 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.16 %
 ```
 
 <!--END_SECTION:waka-->
