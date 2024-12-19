@@ -166,6 +166,12 @@
 <a href="https://www.nasm.us/" target="_blank" rel="noreferrer">
     <img src="https://imgs.search.brave.com/LMaZyu1PMWQK-moW5qQt_p488tohw72XlPUYg_FXq3Y/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jcy5s/bXUuZWR1L35yYXkv/aW1hZ2VzL25hc20t/bG9nby5wbmc" alt="NASM Logo" width="40" height="40"/>
 </a>
+<a href="https://expressjs.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js Logo" width="40" height="40"/>
+</a>
+<a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" alt="Next.js Logo" width="40" height="40"/>
+</a>
 
 </p>
 
