@@ -181,17 +181,23 @@
 
 </p>
 
----
-
 
 <p align="center">
   <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=Fareed95&show_icons=true&theme=vision-friendly-dark">
   <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fareed95&size_weight=0.0005&count_weight=0.3&layout=compact&theme=vision-friendly-dark">
 </p>
 
+
+<div align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=Fareed95&limit=5&theme=vision-friendly-dark&combine_all_yearly_contributions=true" alt="Top Contributed Repos">
+</div>
 <div id="header" align="center">
   <img src="https://komarev.com/ghpvc/?username=Fareed95&style=for-the-badge&color=orange" alt=""/>
 </div>
+
+
+
+
 
 
 # My Weekly performance ~
