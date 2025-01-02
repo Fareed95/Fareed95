@@ -8,9 +8,11 @@
 </p>
 
 
-- 🌱 I’m currently learning AI ML & DevOps and I'm proficient in backend development using django 
+- 🌱 Having a good command in Devops Technologies and backend development
+  
+- 🌱 Focusing on Gen Ai(Langflow, LLM, RAG)
 
-- 💬 Ask me about **Backend development, Django, Django REST framework**
+- 💬 Ask me about **Backend development, LLM AND Devops Technologies**
 
 - 📫 How to reach me **fareedsayedprsnl@gmail.com**
 ### 🏆 GitHub Trophies
@@ -171,6 +173,12 @@
 </a>
 <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" alt="Next.js Logo" width="40" height="40"/>
+</a>
+<a href="https://www.langchain.com/" target="_blank" rel="noreferrer">
+    <img src="https://opensource.muenchen.de/logo/langchain.jpg" alt="LangChain Logo" width="40" height="40"/>
+</a>
+<a href="https://github.com/logspace-ai/langflow" target="_blank" rel="noreferrer">
+    <img src="https://miro.medium.com/v2/resize:fit:2000/0*IEebLvovSdGRmq2e" alt="LangFlow Logo" width="40" height="40"/>
 </a>
 
 </p>
