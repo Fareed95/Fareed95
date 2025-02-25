@@ -175,6 +175,9 @@
 <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js Logo" width="40" height="40"/>
 </a>
+<a href="https://crowcpp.org/master/" target="_blank" rel="noreferrer">
+    <img src="https://crowcpp.org/master/assets/crowlogo_main_light_color.svg#only-dark" alt="Express.js Logo" width="40" height="40"/>
+</a>
 <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" alt="Next.js Logo" width="40" height="40"/>
 </a>
