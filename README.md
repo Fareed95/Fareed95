@@ -192,9 +192,11 @@
 
 # Github Stats
 <p align="center">
-  <img width="800" height="220" src="https://streak-stats.demolab.com?user=Fareed95&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
+  <img width="800" height="220" src="https://streak-stats.demolab.com?user=Fareed95&theme=highcontrast&hide_border=true&border_radius=5&card_width=800" alt = 'Error Fetching the Streak stat data'>
 
 </p>
+<p align = "center">
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Fareed95&theme=merko" alt="Fareed95 github readme activity graph" width="100%" />
 
 
 <p align="center">
