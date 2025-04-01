@@ -7,7 +7,7 @@
     <img src="https://komarev.com/ghpvc/?username=Fareed95&label=Profile%20views&color=0e75b6&style=flat" alt="Fareed95" /> 
 </p>
 
-- 32H National Level hackathon winner 🏆!!!
+- 32H National Level hackathon winner 🏆!!
 
 - 🌱 Having a good command in Devops Technologies and backend development
   
