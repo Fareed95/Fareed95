@@ -221,13 +221,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 15 mins
+Total Time: 0 secs
 
-Python            12 mins         █████████████░░░░░░░░░░░░   52.66 %
-Other             8 mins          ████████▓░░░░░░░░░░░░░░░░   34.75 %
-Git Config        2 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   08.69 %
-XML               0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.09 %
-Java Properties   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.81 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
