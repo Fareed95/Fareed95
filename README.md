@@ -221,13 +221,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 24 mins
+Total Time: 0 secs
 
-Dart       9 mins          █████████▓░░░░░░░░░░░░░░░   38.76 %
-Markdown   9 mins          █████████▒░░░░░░░░░░░░░░░   37.76 %
-YAML       4 mins          ████▓░░░░░░░░░░░░░░░░░░░░   18.62 %
-XML        0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.62 %
-Other      0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.24 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
