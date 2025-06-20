@@ -187,6 +187,13 @@
 <a href="https://github.com/logspace-ai/langflow" target="_blank" rel="noreferrer">
     <img src="https://miro.medium.com/v2/resize:fit:2000/0*IEebLvovSdGRmq2e" alt="LangFlow Logo" width="40" height="40"/>
 </a>
+<a href="https://flutter.dev/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="Flutter Logo" width="40" height="40"/>
+</a>
+<a href="https://dart.dev/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="Dart Logo" width="40" height="40"/>
+</a>
+
 
 </p>
 
