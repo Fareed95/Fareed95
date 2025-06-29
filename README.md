@@ -228,13 +228,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 13 hrs 54 mins
+Total Time: 16 hrs 38 mins
 
-JavaScript   5 hrs 47 mins   ██████████░░░░░░░░░░░░░░░   40.60 %
-Dart         5 hrs 40 mins   ██████████░░░░░░░░░░░░░░░   39.75 %
-TypeScript   2 hrs 16 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.97 %
-Other        21 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.48 %
-XML          6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.72 %
+Dart         5 hrs 40 mins   ████████▒░░░░░░░░░░░░░░░░   33.37 %
+JavaScript   5 hrs 39 mins   ████████▒░░░░░░░░░░░░░░░░   33.29 %
+TypeScript   2 hrs 42 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.95 %
+Kotlin       1 hr 13 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.25 %
+Java         45 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.50 %
 ```
 
 <!--END_SECTION:waka-->
