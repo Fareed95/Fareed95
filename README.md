@@ -228,13 +228,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 19 hrs 13 mins
+Total Time: 15 hrs 38 mins
 
-JavaScript   6 hrs 57 mins   █████████░░░░░░░░░░░░░░░░   35.98 %
-Dart         5 hrs 12 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.97 %
-TypeScript   2 hrs 15 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.68 %
-Java         1 hr 47 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.31 %
-Groovy       1 hr 11 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.16 %
+JavaScript          5 hrs 50 mins   █████████▒░░░░░░░░░░░░░░░   37.18 %
+Dart                5 hrs 12 mins   ████████▒░░░░░░░░░░░░░░░░   33.16 %
+TypeScript          2 hrs 10 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.86 %
+Groovy              46 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.92 %
+CSS                 30 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.27 %
 ```
 
 <!--END_SECTION:waka-->
