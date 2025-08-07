@@ -228,13 +228,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 22 hrs 16 mins
+Total Time: 17 hrs 5 mins
 
-TypeScript        12 hrs 53 mins  ██████████████▒░░░░░░░░░░   57.74 %
-Java              2 hrs 27 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   11.00 %
-JavaScript        1 hr 55 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.59 %
-Kotlin            1 hr 11 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.35 %
-Python            49 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.72 %
+TypeScript        8 hrs 23 mins   ████████████▒░░░░░░░░░░░░   49.08 %
+Java              2 hrs 27 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.37 %
+JavaScript        1 hr 51 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.85 %
+Kotlin            1 hr 11 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.98 %
+JSON              43 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 %
 ```
 
 <!--END_SECTION:waka-->
