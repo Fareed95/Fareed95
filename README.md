@@ -1,21 +1,43 @@
 ![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
-<h1 align="center">Hi 👋, I'm Fareed Sayed </h1>
-<h3 align="center">A passionate AI/ML , DevOps & Fullstack Developer from India</h3>
+
+<h1 align="center">Hi 👋, I'm Fareed Sayed</h1>
+<h3 align="center">A passionate Software Developer from India</h3>
+
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif">
 
 <p align="left"> 
-    <img src="https://komarev.com/ghpvc/?username=Fareed95&label=Profile%20views&color=0e75b6&style=flat" alt="Fareed95" /> 
+  <img src="https://komarev.com/ghpvc/?username=Fareed95&label=Profile%20views&color=0e75b6&style=flat" alt="Fareed95" /> 
 </p>
 
-- 32H National Level hackathon winner 🏆!!
+- 🏆 **32+ Hours National Level Hackathon Winner** — Problem Solver & Innovator  
 
-- 🌱 Having a good command in Devops Technologies and backend development
-  
-- 🌱 Focusing on Gen Ai(Langflow, LLM, RAG)
+<br>
 
-- 💬 Ask me about **Backend development, LLM AND Devops Technologies**
+- 💻 **Expert in Backend Development** (Django, Node.js, FastAPI, Next) & **DevOps** (Docker, Kubernetes, CI/CD, Ansible, Terraform)  
 
-- 📫 How to reach me **fareedsayedprsnl@gmail.com**
+<br>
+
+- 🌐 **Skilled Web, Mobile App, CRM & ERP Developer** — Building Scalable & Robust Solutions  
+
+<br>
+
+- 🤖 **Exploring cutting-edge Gen AI technologies** — Langflow, LLM, Retrieval Augmented Generation (RAG)  
+
+<br>
+
+- 🛠️ **Strong focus on automating workflows, optimizing infrastructure, and crafting seamless user experiences**  
+
+<br>
+
+- 💬 Ask me about **Backend Development, DevOps, Gen AI, Web & App Development, CRM & ERP Systems**  
+
+<br>
+
+- 📫 Reach out to me at: **[fareedsayedprsnl@gmail.com](mailto:fareedsayedprsnl@gmail.com)**  
+
+---
+
+
 ### 🏆 GitHub Trophies
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Fareed95&theme=onedark&title=-Followers)](https://github.com/Fareed95/github-profile-trophy)
@@ -210,18 +232,6 @@
   <img width="450" height="200" src="https://github-readme-stats.vercel.app/api?username=Fareed95&show_icons=true&theme=vision-friendly-dark">
   <img width="350" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fareed95&size_weight=0.0005&count_weight=0.3&layout=compact&theme=vision-friendly-dark">
 </p>
-
-
-<div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Fareed95&limit=5&theme=vision-friendly-dark&combine_all_yearly_contributions=true" alt="Top Contributed Repos" width = 70%>
-</div>
-<div id="header" align="center">
-  <img src="https://komarev.com/ghpvc/?username=Fareed95&style=for-the-badge&color=orange" alt=""/>
-</div>
-
-
-
-
 
 
 # My Weekly performance ~
