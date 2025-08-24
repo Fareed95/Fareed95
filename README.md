@@ -33,7 +33,7 @@
 
 <br>
 
-- 📫 Reach out to me at: **[fareedsayedprsnl@gmail.com](mailto:fareedsayedprsnl@gmail.com)**  
+- 📫 Reach out to me at: **[fareedsayedprsnl@gmail.com](mailto:fareedsayed95@gmail.com)**  
 
 ---
 
@@ -215,6 +215,10 @@
 <a href="https://dart.dev/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="Dart Logo" width="40" height="40"/>
 </a>
+<a href="https://www.cloudflare.com/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cloudflare/cloudflare-original.svg" alt="Cloudflare Logo" width="40" height="40"/>
+</a>
+
 
 
 </p>
