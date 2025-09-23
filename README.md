@@ -206,6 +206,16 @@
 <a href="https://github.com/logspace-ai/langflow" target="_blank" rel="noreferrer">
     <img src="https://miro.medium.com/v2/resize:fit:2000/0*IEebLvovSdGRmq2e" alt="LangFlow Logo" width="40" height="40"/>
 </a>
+  <!-- LangGraph -->
+<a href="https://www.langchain.com/langgraph" target="_blank" rel="noreferrer">
+  <img src="https://miro.medium.com/1*9HFsjXjgw6oG2HwQ3Okgwg.png" alt="LangGraph Logo" width="40" height="40"/>
+</a>
+
+<!-- LangSmith -->
+<a href="https://www.langchain.com/langsmith" target="_blank" rel="noreferrer">
+  <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/langsmith-color.png" alt="LangSmith Logo" width="40" height="40"/>
+</a>
+
 <a href="https://flutter.dev/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="Flutter Logo" width="40" height="40"/>
 </a>
