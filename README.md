@@ -9,7 +9,7 @@
   <img src="https://komarev.com/ghpvc/?username=Fareed95&label=Profile%20views&color=0e75b6&style=flat" alt="Fareed95" /> 
 </p>
 
-- 🏆 **32+ Hours National Level Hackathon Winner** — Problem Solver & Innovator  
+- 🏆 **2x Hackathon Winner** — Problem Solver & Innovator  
 
 <br>
 
