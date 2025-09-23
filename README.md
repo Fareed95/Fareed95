@@ -204,7 +204,7 @@
     <img src="https://opensource.muenchen.de/logo/langchain.jpg" alt="LangChain Logo" width="40" height="40"/>
 </a>
 <a href="https://github.com/logspace-ai/langflow" target="_blank" rel="noreferrer">
-    <img src="https://miro.medium.com/v2/resize:fit:2000/0*IEebLvovSdGRmq2e" alt="LangFlow Logo" width="40" height="40"/>
+    <img src="https://cdn-1.webcatalog.io/catalog/langflow/langflow-icon-unplated.png?v=1747205975139" alt="LangFlow Logo" width="40" height="40"/>
 </a>
   <!-- LangGraph -->
 <a href="https://www.langchain.com/langgraph" target="_blank" rel="noreferrer">
