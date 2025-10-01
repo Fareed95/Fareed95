@@ -33,7 +33,7 @@
 
 <br>
 
-- 📫 Reach out to me at: **[fareedsayedprsnl@gmail.com](mailto:fareedsayed95@gmail.com)**  
+- 📫 Reach out to me at: **[fareedsayed95@gmail.com](mailto:fareedsayed95@gmail.com)**  
 
 ---
 
