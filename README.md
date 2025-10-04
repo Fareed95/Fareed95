@@ -9,11 +9,11 @@
   <img src="https://komarev.com/ghpvc/?username=Fareed95&label=Profile%20views&color=0e75b6&style=flat" alt="Fareed95" /> 
 </p>
 
-- 🏆 **2x Hackathon Winner** — Problem Solver & Innovator  
+- 🏆 **2x Hackathon Winner**
 
 <br>
 
-- 💻 **Expert in Backend Development** (Django, Node.js, FastAPI, Next) & **DevOps** (Docker, Kubernetes, CI/CD, Ansible, Terraform)  
+- 💻 **Expert in Backend Development** (Django, Node.js, FastAPI, Next) & **DevOps** (Docker, Kubernetes, CI/CD, Ansible, Terraform)  & GenAI(Langchain, Langraph, Ai agents)
 
 <br>
 
@@ -21,7 +21,7 @@
 
 <br>
 
-- 🤖 **Exploring cutting-edge Gen AI technologies** — Langflow, LLM, Retrieval Augmented Generation (RAG)  
+- 🤖 **Exploring cutting-edge Gen AI technologies** — Langflow, LLM, Retrieval Augmented Generation (RAG) , Langraph
 
 <br>
 
