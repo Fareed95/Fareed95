@@ -9,29 +9,8 @@
   <img src="https://komarev.com/ghpvc/?username=Fareed95&label=Profile%20views&color=0e75b6&style=flat" alt="Fareed95" /> 
 </p>
 
-- 🏆 **2x Hackathon Winner**
-
-<br>
-
-- 💻 **Expert in Backend Development** (Django, Node.js, FastAPI, Next) & **DevOps** (Docker, Kubernetes, CI/CD, Ansible, Terraform)  & GenAI(Langchain, Langraph, Ai agents)
-
-<br>
-
-- 🌐 **Skilled Web, Mobile App, CRM & ERP Developer** — Building Scalable & Robust Solutions  
-
-<br>
-
-- 🤖 **Exploring cutting-edge Gen AI technologies** — Langflow, LLM, Retrieval Augmented Generation (RAG) , Langraph
-
-<br>
-
-- 🛠️ **Strong focus on automating workflows, optimizing infrastructure, and crafting seamless user experiences**  
-
-<br>
-
-- 💬 Ask me about **Backend Development, DevOps, Gen AI, Web & App Development, CRM & ERP Systems**  
-
-<br>
+- **Backend & DevOps Engineer** —Skilled in Django, Node.js, FastAPI, Next.js, Docker, Kubernetes, CI/CD, Ansible, and Terraform. Experienced in building scalable web, mobile, CRM, and ERP solutions.    
+- **GenAI Developer** — Working with LangChain, LangFlow, LangGraph, and RAG to create intelligent automation systems and AI-driven workflows.  
 
 - 📫 Reach out to me at: **[fareedsayed95@gmail.com](mailto:fareedsayed95@gmail.com)**  
 
