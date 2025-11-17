@@ -9,7 +9,7 @@
   <img src="https://komarev.com/ghpvc/?username=Fareed95&label=Profile%20views&color=0e75b6&style=flat" alt="Fareed95" /> 
 </p>
 
-- **Backend and DevOps Engineer** —Skilled in Django, Node.js, FastAPI, Next.js, Docker, Kubernetes, CI/CD, Ansible, and Terraform. Experienced in building scalable web, mobile, CRM and ERP solutions.    
+- **Backend and DevOps Engineer** — Skilled in Django, Node.js, FastAPI, Next.js, Docker, Kubernetes, CI/CD, Ansible, and Terraform. Experienced in building scalable web, mobile, CRM and ERP solutions.    
 - **GenAI Developer** — Working with LangChain, LangFlow, LangGraph, and RAG to create intelligent automation systems and AI-driven workflows.  
 
 - 📫 Reach out to me at: **[fareedsayed95@gmail.com](mailto:fareedsayed95@gmail.com)**  
