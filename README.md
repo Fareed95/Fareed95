@@ -12,8 +12,6 @@
 - **Backend and DevOps Engineer** — Skilled in Django, Node.js, FastAPI, Next.js, Docker, Kubernetes, CI/CD, Ansible, and Terraform. Experienced in building scalable web, mobile, CRM and ERP solutions.    
 - **GenAI Developer** — Working with LangChain, LangFlow, LangGraph, and RAG to create intelligent automation systems and AI-driven workflows.  
 
-- 📫 Reach out to me at: **[fareedsayed95@gmail.com](mailto:fareedsayed95@gmail.com)**  
-
 ---
 
 
@@ -23,24 +21,29 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/fareed-sayed-b39936280/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fareed-sayed" height="30" width="40" /></a>
-<a href="https://www.instagram.com/fareed_sayed_05" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
-</a>
-<!-- X (Twitter) -->
-<a href="https://x.com/fareedsayed95" target="_blank">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/x.svg" 
-       alt="X" height="30" width="40" />
-</a>
 
-
-  <!-- Email -->
-  <a href="mailto:fareedsayed95@gmail.com" aria-label="Email">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg"
-         alt="Email" height="30" width="40" />
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/fareed-sayed-b39936280/" target="_blank">
+    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="35" width="35" />
   </a>
 
+  <!-- Instagram -->
+  <a href="https://www.instagram.com/fareed_sayed_05" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="35" width="35" />
+  </a>
+
+
+  <!-- Gmail -->
+  <a href="mailto:fareedsayed95@gmail.com">
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" height="35" width="35" />
+  </a>
+
+  <!-- X -->
+  <a href="https://x.com/fareedsayed95" target="_blank">
+    <img align="center" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/x.svg" height="35" width="35" style="filter: invert(0%) brightness(100%) contrast(100%);" />
+  </a>
 </p>
+
 
 # Languages and Tools 
 <p align="left"> 
