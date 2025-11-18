@@ -27,6 +27,18 @@
 <a href="https://www.instagram.com/fareed_sayed_05" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
 </a>
+<!-- X (Twitter) -->
+<a href="https://x.com/fareedsayed95" target="_blank">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/x.svg" 
+       alt="X" height="30" width="40" />
+</a>
+
+
+  <!-- Email -->
+  <a href="mailto:fareedsayed95@gmail.com" aria-label="Email">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg"
+         alt="Email" height="30" width="40" />
+  </a>
 
 </p>
 
