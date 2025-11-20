@@ -1,4 +1,8 @@
-![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
+
+<p align="center">
+ <img width="1000" src="assets/github-snake.svg" alt="snake"/>
+</p>
+
 
 <h1 align="center">Hi 👋, I'm Fareed Sayed</h1>
 <h3 align="center">A passionate Software Developer from India</h3>
@@ -235,7 +239,6 @@
 
 <p align="center">
   <img width="450" height="200" src="https://github-readme-stats.vercel.app/api?username=Fareed95&show_icons=true&theme=vision-friendly-dark">
-  <img width="350" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fareed95&size_weight=0.0005&count_weight=0.3&layout=compact&theme=vision-friendly-dark">
 </p>
 
 
@@ -254,7 +257,3 @@ TypeScript   9 mins          █░░░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
-
-<p align="center">
- <img width="1000" src="assets/github-snake.svg" alt="snake"/>
-</p>
