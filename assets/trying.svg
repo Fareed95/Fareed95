@@ -1,0 +1,75 @@
+<!-- assets/tech-stack.svg -->
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="100%"
+     height="80"
+     viewBox="0 0 800 80"
+     role="img"
+>
+  <title>Fareed Sayed Tech Stack</title>
+  <desc>Animated carousel of languages and tools</desc>
+
+  <style>
+    .icon-strip image {
+      width: 40px;
+      height: 40px;
+    }
+  </style>
+
+  <!-- Strip 1 -->
+  <g class="icon-strip">
+    <animateTransform attributeName="transform"
+                      type="translate"
+                      from="0 0"
+                      to="-1400 0"
+                      dur="40s"
+                      repeatCount="indefinite" />
+
+    <image href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"       x="0"    y="20" />
+    <image href="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg"         x="80"   y="20" />
+    <image href="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"      x="160"  y="20" />
+    <image href="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" x="240"  y="20" />
+    <image href="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg"    x="320"  y="20" />
+    <image href="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg"x="400"  y="20" />
+    <image href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" x="480" y="20" />
+    <image href="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"        x="560"  y="20" />
+    <image href="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" x="640" y="20" />
+    <image href="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"      x="720"  y="20" />
+    <image href="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"        x="800"  y="20" />
+    <image href="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" x="880" y="20" />
+    <image href="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg"        x="960"  y="20" />
+    <image href="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"            x="1040" y="20" />
+    <image href="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"        x="1120" y="20" />
+    <image href="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg"    x="1200" y="20" />
+    <image href="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg"          x="1280" y="20" />
+    <image href="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" x="1360" y="20" />
+  </g>
+
+  <!-- Strip 2 (same icons, offset for seamless loop) -->
+  <g class="icon-strip">
+    <animateTransform attributeName="transform"
+                      type="translate"
+                      from="1400 0"
+                      to="0 0"
+                      dur="40s"
+                      repeatCount="indefinite" />
+
+    <image href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"       x="0"    y="20" />
+    <image href="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg"         x="80"   y="20" />
+    <image href="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"      x="160"  y="20" />
+    <image href="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" x="240"  y="20" />
+    <image href="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg"    x="320"  y="20" />
+    <image href="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg"x="400"  y="20" />
+    <image href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" x="480" y="20" />
+    <image href="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"        x="560"  y="20" />
+    <image href="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" x="640" y="20" />
+    <image href="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"      x="720"  y="20" />
+    <image href="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"        x="800"  y="20" />
+    <image href="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" x="880" y="20" />
+    <image href="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg"        x="960"  y="20" />
+    <image href="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"            x="1040" y="20" />
+    <image href="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"        x="1120" y="20" />
+    <image href="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg"    x="1200" y="20" />
+    <image href="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg"          x="1280" y="20" />
+    <image href="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" x="1360" y="20" />
+  </g>
+</svg>
