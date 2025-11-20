@@ -228,12 +228,16 @@
 <p align = "center">
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Fareed95&theme=merko" alt="Fareed95 github readme activity graph" width="90%" />
 
-
 <p align="center">
-  <img width="450" height="200" src="https://github-readme-stats.vercel.app/api?username=Fareed95&show_icons=true&theme=vision-friendly-dark">
-   <img width="450" src="https://streak-stats.demolab.com?user=Fareed95&theme=highcontrast&hide_border=true&border_radius=5&card_width=800" alt = 'Error Fetching the Streak stat data'>
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=Fareed95&show_icons=true&theme=vision-friendly-dark" 
+    height="200"
+  />
+  <img 
+    src="https://streak-stats.demolab.com?user=Fareed95&theme=highcontrast&hide_border=true&border_radius=5" 
+    height="200"
+  />
 </p>
-
 
 # My Weekly performance ~
 <!--START_SECTION:waka-->
