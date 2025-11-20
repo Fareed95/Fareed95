@@ -231,13 +231,14 @@
 <p align="center">
   <img 
     src="https://github-readme-stats.vercel.app/api?username=Fareed95&show_icons=true&theme=vision-friendly-dark" 
-    height="200"
+    height="150"
   />
   <img 
     src="https://streak-stats.demolab.com?user=Fareed95&theme=highcontrast&hide_border=true&border_radius=5" 
-    height="200"
+    height="150"
   />
 </p>
+
 
 # My Weekly performance ~
 <!--START_SECTION:waka-->
