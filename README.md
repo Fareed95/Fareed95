@@ -244,13 +244,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 3 hrs 47 mins
+Total Time: 6 hrs 34 mins
 
-Python            1 hr 25 mins    █████████▒░░░░░░░░░░░░░░░   37.20 %
-TypeScript        44 mins         ████▓░░░░░░░░░░░░░░░░░░░░   19.30 %
-Bash              27 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.97 %
-Text              17 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.81 %
-Dart              13 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.73 %
+Python            2 hrs 14 mins   ████████▒░░░░░░░░░░░░░░░░   33.99 %
+Dart              1 hr 20 mins    █████░░░░░░░░░░░░░░░░░░░░   20.37 %
+TypeScript        49 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.54 %
+Bash              30 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 %
+JavaScript        30 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.59 %
 ```
 
 <!--END_SECTION:waka-->
