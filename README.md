@@ -4,7 +4,7 @@
 </p>
 
 
-<h1 align="center">Yup 👋, I'm Fareed Sayed</h1>
+<h1 align="center">Hey 👋, I'm Fareed Sayed</h1>
 <h3 align="center">A passionate Software Developer from India</h3>
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif">
