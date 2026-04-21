@@ -77,11 +77,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 36 mins
+Total Time: 14 mins
 
-Other        1 hr 9 mins           ████████████████▒░░░░░░░░   65.71 %
-TypeScript   30 mins               ███████▒░░░░░░░░░░░░░░░░░   28.98 %
-SQL          5 mins                █▒░░░░░░░░░░░░░░░░░░░░░░░   05.31 %
+Other        1 hr 10 mins          ████████████████████▓░░░░   82.97 %
+TypeScript   14 mins               ████▒░░░░░░░░░░░░░░░░░░░░   17.03 %
 ```
 
 <!--END_SECTION:waka-->
