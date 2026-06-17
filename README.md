@@ -72,19 +72,3 @@
   />
 </p>
 
-
-# My Weekly performance ~
-<!--START_SECTION:waka-->
-
-```txt
-Total Time: 57 mins
-
-TypeScript   34 mins               ██████████████▓░░░░░░░░░░   59.25 %
-Python       15 mins               ███████░░░░░░░░░░░░░░░░░░   27.54 %
-Markdown     6 mins                ███░░░░░░░░░░░░░░░░░░░░░░   11.77 %
-TOML         0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 %
-SQL          0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 %
-```
-
-<!--END_SECTION:waka-->
-
