@@ -1,74 +1,79 @@
+<p align="center">
+  <img src="assets/github-snake.svg" width="100%" alt="Snake Animation" />
+</p>
+
+<h1 align="center">Hi 👋, I'm Fareed Sayed</h1>
+
+<h3 align="center">
+Passionate Software Developer from India 🇮🇳
+</h3>
 
 <p align="center">
- <img width="1000" src="assets/github-snake.svg" alt="snake"/>
+Building AI Applications • Backend Systems • Full Stack Web Development
 </p>
 
-
-<h1 align="center">Hii 👋, I'm Fareed Sayed</h1>
-<h3 align="center">A passionate Software Developer from India</h3>
-
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif">
-
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=Fareed95&label=Profile%20views&color=0e75b6&style=flat" alt="Fareed95" /> 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Fareed95&label=Profile+Views&style=for-the-badge&color=blueviolet" />
+  <img src="https://img.shields.io/github/followers/Fareed95?style=for-the-badge&color=blue" />
 </p>
 
- ### Prefixes :
- - Web and App Developer
- - Backend Developer
- - Devops Engineer
- - Data Scientist
- - Gen ai Developer
- - ML developer
- - Software Engineer
-
-
-   
 ---
 
+<img align="right" width="380" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" />
 
-### 🏆 GitHub Trophies
+## 👨‍💻 About Me
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Fareed95&theme=onedark&title=-Followers)](https://github.com/Fareed95/github-profile-trophy)
+- 💻 Full Stack Software Developer
+- ⚙️ Backend Development with **Python, Django & FastAPI**
+- 🤖 Building AI Applications, LLMs & AI Agents
+- 🌐 Passionate about Scalable Web Applications
+- 📚 Currently exploring RAG, MCP & AI Workflows
+- 🚀 Love solving real-world problems using technology
 
-<h3 align="left">Connect with me:</h3>
+<br>
+<h2 align="left">🌐 Connect With Me</h2>
+
 <p align="left">
-
-  <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/fareed-sayed-b39936280/" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="35" width="35" />
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
   </a>
-
-  <!-- Instagram -->
   <a href="https://www.instagram.com/fareed_sayed_05" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="35" width="35" />
+    <img src="https://skillicons.dev/icons?i=instagram" height="40" />
   </a>
-
-
-  <!-- Gmail -->
   <a href="mailto:fareedsayed95@gmail.com">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" height="35" width="35" />
+    <img src="https://skillicons.dev/icons?i=gmail" height="40" />
   </a>
-
-  <!-- X -->
   <a href="https://x.com/fareedsayed95" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/x.svg" height="35" width="35" style="filter: invert(0%) brightness(100%) contrast(100%);" />
+    <img src="https://cdn.simpleicons.org/x/white" height="36" />
   </a>
 </p>
 
+---
 
-</p>
-<p align = "center">
-<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Fareed95&theme=merko" alt="Fareed95 github readme activity graph" width="90%" />
+## 📊 GitHub Statistics
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=Fareed95&show_icons=true&theme=vision-friendly-dark&hide_border=true" 
-    height="150"
-  />
-  <img 
-    src="https://streak-stats.demolab.com?user=Fareed95&theme=highcontrast&hide_border=true&border_radius=5" 
-    height="150"
-  />
+
+<img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Fareed95&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+
+<img width="49%" src="https://streak-stats.demolab.com?user=Fareed95&theme=tokyonight&hide_border=true"/>
+
 </p>
 
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Fareed95&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
+
+<div align="center">
+
+### 💙 Thanks for visiting my profile!
+
+*"Code • Learn • Build • Repeat"* 🚀
+
+</div>
