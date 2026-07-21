@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Fareed Sayed</h1>
 
 <h3 align="center">
-Passionate Software Developer from India 🇮🇳
+Passionate Software Developer
 </h3>
 
 <p align="center">
