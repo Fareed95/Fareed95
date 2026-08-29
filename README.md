@@ -2,7 +2,7 @@
   <img src="assets/github-snake.svg" width="100%" alt="Snake Animation" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Fareed Sayed</h1>
+<h1 align="center">Hey 👋, I'm Fareed Sayed</h1>
 
 <h3 align="center">
 Passionate Software Developer
