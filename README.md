@@ -12,6 +12,17 @@
   <img src="https://img.shields.io/badge/VIBE-BAWAL-00e7ff?style=for-the-badge&labelColor=0d1117" />
 </p>
 
+<div align="center">
+  <h3>Hi, I’m Fareed — I build fast, scalable products with AI at the core.</h3>
+  <p>From backend APIs to full experiences, I focus on shipping ideas that feel premium and perform in production.</p>
+</div>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/AI%20Apps-8A2BE2?style=for-the-badge&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Backend%20Systems-00B3FF?style=for-the-badge&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Fullstack%20Products-00E7FF?style=for-the-badge&labelColor=0d1117" />
+</p>
+
 <p align="center">
   <img src="assets/github-snake.svg" width="100%" alt="Snake Animation" />
 </p>
@@ -34,6 +45,10 @@
 ---
 
 <p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Fareed95&theme=onestar&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" alt="GitHub Trophies" />
+</p>
+
+<p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Fareed95&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
   <img width="49%" src="https://streak-stats.demolab.com?user=Fareed95&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
@@ -42,8 +57,12 @@
   <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fareed95&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Fareed95&theme=tokyo-night&hide_border=true&radius=12" alt="Activity Graph" />
+</p>
+
 ---
 
 <div align="center">
-  <h3>⚡ less content. more aura.</h3>
+  <h3>⚡ Big Vision. Sharp Execution.</h3>
 </div>
