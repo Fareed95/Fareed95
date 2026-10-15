@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="92" viewBox="0 0 1200 92" role="img" aria-labelledby="title desc">
+  <title id="title">Neon Navbar</title>
+  <desc id="desc">Website-like neon navigation strip</desc>
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0b0f1f"/>
+      <stop offset="45%" stop-color="#240046"/>
+      <stop offset="100%" stop-color="#001d3d"/>
+    </linearGradient>
+    <linearGradient id="line" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00e5ff"/>
+      <stop offset="50%" stop-color="#9d4edd"/>
+      <stop offset="100%" stop-color="#00e5ff"/>
+    </linearGradient>
+    <filter id="glow" x="-30%" y="-200%" width="160%" height="400%">
+      <feGaussianBlur stdDeviation="2.2" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect x="8" y="8" rx="18" ry="18" width="1184" height="76" fill="url(#bg)" stroke="#1f2a44" stroke-width="1.2"/>
+  <rect x="24" y="20" rx="14" ry="14" width="1152" height="52" fill="none" stroke="url(#line)" stroke-width="1.6" filter="url(#glow)"/>
+
+  <g font-family="Orbitron,Segoe UI,Arial,sans-serif" font-size="20" font-weight="700" fill="#c8f4ff" text-anchor="middle">
+    <text x="170" y="52">HOME</text>
+    <text x="370" y="52">ABOUT</text>
+    <text x="600" y="52">HIGHLIGHTS</text>
+    <text x="835" y="52">ANALYTICS</text>
+    <text x="1030" y="52">CONNECT</text>
+  </g>
+
+  <circle cx="72" cy="46" r="5" fill="#00e5ff" filter="url(#glow)"/>
+  <circle cx="1128" cy="46" r="5" fill="#9d4edd" filter="url(#glow)"/>
+</svg>

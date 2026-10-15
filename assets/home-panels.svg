@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="230" viewBox="0 0 1200 230" role="img" aria-labelledby="title desc">
+  <title id="title">Homepage Panels</title>
+  <desc id="desc">Three neon highlight panels for profile README</desc>
+  <defs>
+    <linearGradient id="panelBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0b1020"/>
+      <stop offset="100%" stop-color="#111a33"/>
+    </linearGradient>
+    <linearGradient id="strokeA" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00e5ff"/>
+      <stop offset="100%" stop-color="#70e1f5"/>
+    </linearGradient>
+    <linearGradient id="strokeB" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#9d4edd"/>
+      <stop offset="100%" stop-color="#c77dff"/>
+    </linearGradient>
+    <linearGradient id="strokeC" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00f5d4"/>
+      <stop offset="100%" stop-color="#00bbf9"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="230" rx="20" fill="#090d1b"/>
+
+  <g font-family="Segoe UI,Arial,sans-serif" fill="#dff7ff">
+    <rect x="28" y="22" width="364" height="184" rx="18" fill="url(#panelBg)" stroke="url(#strokeA)" stroke-width="2"/>
+    <text x="54" y="72" font-size="22" font-weight="700">⚡ Build Velocity</text>
+    <text x="54" y="106" font-size="16">Turning ideas into shipped products</text>
+    <text x="54" y="132" font-size="16">with rapid iteration and clean delivery.</text>
+
+    <rect x="418" y="22" width="364" height="184" rx="18" fill="url(#panelBg)" stroke="url(#strokeB)" stroke-width="2"/>
+    <text x="444" y="72" font-size="22" font-weight="700">🧠 AI Engineering</text>
+    <text x="444" y="106" font-size="16">Designing practical AI systems,</text>
+    <text x="444" y="132" font-size="16">automations, and smart user flows.</text>
+
+    <rect x="808" y="22" width="364" height="184" rx="18" fill="url(#panelBg)" stroke="url(#strokeC)" stroke-width="2"/>
+    <text x="834" y="72" font-size="22" font-weight="700">🎨 Premium Experience</text>
+    <text x="834" y="106" font-size="16">Strong backend logic with bold,</text>
+    <text x="834" y="132" font-size="16">website-style visual storytelling.</text>
+  </g>
+</svg>

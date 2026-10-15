@@ -3,11 +3,15 @@
 </p>
 
 <p align="center">
-  <a href="#home">Home</a> •
-  <a href="#about">About</a> •
-  <a href="#highlights">Highlights</a> •
-  <a href="#analytics">Analytics</a> •
-  <a href="#connect">Connect</a>
+  <img src="assets/neon-navbar.svg" width="100%" alt="Neon Navbar UI" />
+</p>
+
+<p align="center">
+  <a href="#home"><img src="https://img.shields.io/badge/HOME-0f172a?style=flat-square&logoColor=00e5ff&labelColor=00e5ff&color=0f172a" /></a>
+  <a href="#about"><img src="https://img.shields.io/badge/ABOUT-0f172a?style=flat-square&logoColor=9d4edd&labelColor=9d4edd&color=0f172a" /></a>
+  <a href="#highlights"><img src="https://img.shields.io/badge/HIGHLIGHTS-0f172a?style=flat-square&logoColor=00f5d4&labelColor=00f5d4&color=0f172a" /></a>
+  <a href="#analytics"><img src="https://img.shields.io/badge/ANALYTICS-0f172a?style=flat-square&logoColor=00bbf9&labelColor=00bbf9&color=0f172a" /></a>
+  <a href="#connect"><img src="https://img.shields.io/badge/CONNECT-0f172a?style=flat-square&logoColor=c77dff&labelColor=c77dff&color=0f172a" /></a>
 </p>
 
 <p align="center">
@@ -38,28 +42,19 @@
       </p>
     </td>
     <td width="40%" align="center" valign="middle">
-      <img src="assets/github-snake.svg" width="100%" alt="Snake Animation" />
+      <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="96%" alt="Hoodie Developer Visual" />
     </td>
   </tr>
 </table>
 
 <h3 id="highlights">🧩 Highlights</h3>
-<table width="100%">
-  <tr>
-    <td align="center" width="33%">
-      <h4>🚀 Build Mode</h4>
-      <p>Fast iterations with production-quality output.</p>
-    </td>
-    <td align="center" width="33%">
-      <h4>🧠 AI Mindset</h4>
-      <p>LLM-driven workflows and practical automation focus.</p>
-    </td>
-    <td align="center" width="33%">
-      <h4>🎨 Premium Feel</h4>
-      <p>Code that performs and presentation that stands out.</p>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="assets/home-panels.svg" width="100%" alt="Homepage Highlight Panels" />
+</p>
+
+<p align="center">
+  <img src="assets/github-snake.svg" width="100%" alt="Snake Animation" />
+</p>
 
 <h3 id="analytics">📊 Analytics</h3>
 <p align="center">
