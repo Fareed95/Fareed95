@@ -1,32 +1,82 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=FAREED%20SAYED&fontAlign=50&fontAlignY=35&fontSize=58&animation=twinkling&color=0:09090b,25:240046,55:5a189a,100:00e5ff&fontColor=ffffff&desc=less%20talk%20%2C%20more%20impact&descAlign=50&descAlignY=58" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&text=FAREED%20SAYED&fontAlign=50&fontAlignY=36&fontSize=60&animation=fadeIn&color=0:080808,35:240046,70:5a189a,100:00e5ff&fontColor=ffffff&desc=AI%20Builder%20%7C%20Backend%20Engineer%20%7C%20Fullstack%20Creator&descAlign=50&descAlignY=59" width="100%" alt="Header Banner" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=27&duration=2200&pause=700&color=00E7FF&center=true&vCenter=true&width=860&lines=CRAZY+VISUALS.+CLEAN+EXECUTION.;BUILDING+THINGS+THAT+HIT+DIFFERENT." alt="Typing Intro" />
+  <a href="#home">Home</a> •
+  <a href="#about">About</a> •
+  <a href="#highlights">Highlights</a> •
+  <a href="#analytics">Analytics</a> •
+  <a href="#connect">Connect</a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Fareed95&label=PROFILE+VIEWS&style=for-the-badge&color=8A2BE2" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=26&duration=2300&pause=700&color=00E7FF&center=true&vCenter=true&width=900&lines=Website-style+Profile+Experience;Crazy+Visuals+%2B+Sharp+Execution;Built+to+Look+Premium" alt="Typing Intro" />
+</p>
+
+<p align="center" id="home">
+  <img src="https://komarev.com/ghpvc/?username=Fareed95&label=VISITORS&style=for-the-badge&color=8A2BE2" />
   <img src="https://img.shields.io/github/followers/Fareed95?style=for-the-badge&color=00B3FF&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/VIBE-BAWAL-00e7ff?style=for-the-badge&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/VIBE-CRAZY%20AESTHETIC-00e7ff?style=for-the-badge&labelColor=0d1117" />
 </p>
 
-<div align="center">
-  <h3>Hi, I’m Fareed — I build fast, scalable products with AI at the core.</h3>
-  <p>From backend APIs to full experiences, I focus on shipping ideas that feel premium and perform in production.</p>
-</div>
+<table width="100%">
+  <tr>
+    <td width="60%" valign="top" id="about">
+      <h3>⚡ About</h3>
+      <p>
+        I build AI-first digital products with a strong focus on backend architecture,
+        performance, and clean product experience.
+      </p>
+      <p>
+        From idea to deployment, I like shipping fast and making it look premium.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/AI%20Products-8A2BE2?style=flat-square&labelColor=0d1117" />
+        <img src="https://img.shields.io/badge/Backend%20Systems-00B3FF?style=flat-square&labelColor=0d1117" />
+        <img src="https://img.shields.io/badge/Fullstack%20Experiences-00E7FF?style=flat-square&labelColor=0d1117" />
+      </p>
+    </td>
+    <td width="40%" align="center" valign="middle">
+      <img src="assets/github-snake.svg" width="100%" alt="Snake Animation" />
+    </td>
+  </tr>
+</table>
+
+<h3 id="highlights">🧩 Highlights</h3>
+<table width="100%">
+  <tr>
+    <td align="center" width="33%">
+      <h4>🚀 Build Mode</h4>
+      <p>Fast iterations with production-quality output.</p>
+    </td>
+    <td align="center" width="33%">
+      <h4>🧠 AI Mindset</h4>
+      <p>LLM-driven workflows and practical automation focus.</p>
+    </td>
+    <td align="center" width="33%">
+      <h4>🎨 Premium Feel</h4>
+      <p>Code that performs and presentation that stands out.</p>
+    </td>
+  </tr>
+</table>
+
+<h3 id="analytics">📊 Analytics</h3>
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Fareed95&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=Fareed95&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/AI%20Apps-8A2BE2?style=for-the-badge&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/Backend%20Systems-00B3FF?style=for-the-badge&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/Fullstack%20Products-00E7FF?style=for-the-badge&labelColor=0d1117" />
+  <img width="44%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fareed95&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img width="54%" src="https://github-profile-trophy.vercel.app/?username=Fareed95&theme=onestar&no-frame=true&no-bg=true&margin-w=8&row=1&column=3" alt="GitHub Trophies" />
 </p>
 
 <p align="center">
-  <img src="assets/github-snake.svg" width="100%" alt="Snake Animation" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Fareed95&theme=tokyo-night&hide_border=true&radius=12" alt="Activity Graph" />
 </p>
 
+<h3 id="connect">🌐 Connect</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/fareed-sayed-b39936280/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -42,27 +92,6 @@
   </a>
 </p>
 
----
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Fareed95&theme=onestar&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" alt="GitHub Trophies" />
-</p>
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Fareed95&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img width="49%" src="https://streak-stats.demolab.com?user=Fareed95&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fareed95&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Fareed95&theme=tokyo-night&hide_border=true&radius=12" alt="Activity Graph" />
-</p>
-
----
-
 <div align="center">
-  <h3>⚡ Big Vision. Sharp Execution.</h3>
+  <h3>⚡ Feels like a website. Works like a profile.</h3>
 </div>
