@@ -2,9 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=240&text=FAREED%20SAYED&fontAlign=50&fontAlignY=36&fontSize=60&animation=fadeIn&color=0:080808,35:240046,70:5a189a,100:00e5ff&fontColor=ffffff&desc=AI%20Builder%20%7C%20Backend%20Engineer%20%7C%20Fullstack%20Creator&descAlign=50&descAlignY=59" width="100%" alt="Header Banner" />
 </p>
 
-<p align="center">
-  <img src="assets/neon-navbar.svg" width="100%" alt="Neon Navbar UI" />
-</p>
 
 <p align="center">
   <a href="#home"><img src="assets/nav-home.svg" alt="Home" /></a>
