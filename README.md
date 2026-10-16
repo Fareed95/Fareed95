@@ -1,91 +1,205 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&text=FAREED%20SAYED&fontAlign=50&fontAlignY=36&fontSize=60&animation=fadeIn&color=0:080808,35:240046,70:5a189a,100:00e5ff&fontColor=ffffff&desc=AI%20Builder%20%7C%20Backend%20Engineer%20%7C%20Fullstack%20Creator&descAlign=50&descAlignY=59" width="100%" alt="Header Banner" />
-</p>
+<div align="center" id="top">
+  <img src="assets/brutalist-hero.svg" width="100%" alt="Fareed Sayed — AI Builder, Backend Engineer, Full-stack Creator" />
+</div>
 
+<br />
 
-<p align="center">
-  <a href="#home"><img src="assets/nav-home.svg" alt="Home" /></a>
-  <a href="#about"><img src="assets/nav-about.svg" alt="About" /></a>
-  <a href="#highlights"><img src="assets/nav-highlights.svg" alt="Highlights" /></a>
-  <a href="#analytics"><img src="assets/nav-analytics.svg" alt="Analytics" /></a>
-  <a href="#connect"><img src="assets/nav-connect.svg" alt="Connect" /></a>
-</p>
+<div align="center">
+  <a href="#01-profile"><b>01 / PROFILE</b></a>&nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;
+  <a href="#02-building"><b>02 / BUILDING</b></a>&nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;
+  <a href="#03-stack"><b>03 / STACK</b></a>&nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;
+  <a href="#04-signal"><b>04 / SIGNAL</b></a>&nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;
+  <a href="#05-contact"><b>05 / CONTACT</b></a>
+</div>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=26&duration=2300&pause=700&color=00E7FF&center=true&vCenter=true&width=900&lines=Website-style+Profile+Experience;Crazy+Visuals+%2B+Sharp+Execution;Built+to+Look+Premium" alt="Typing Intro" />
-</p>
-
-<p align="center" id="home">
-  <img src="https://komarev.com/ghpvc/?username=Fareed95&label=VISITORS&style=for-the-badge&color=8A2BE2" />
-  <img src="https://img.shields.io/github/followers/Fareed95?style=for-the-badge&color=00B3FF&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/VIBE-CRAZY%20AESTHETIC-00e7ff?style=for-the-badge&labelColor=0d1117" />
-</p>
+<br />
 
 <table width="100%">
   <tr>
-    <td width="60%" valign="top" id="about">
-      <h3>⚡ About</h3>
+    <td><b>STATUS</b></td>
+    <td><b>FOCUS</b></td>
+    <td><b>MODE</b></td>
+    <td><b>BASE</b></td>
+  </tr>
+  <tr>
+    <td>BUILDING</td>
+    <td>AI × PRODUCTS</td>
+    <td>SHIP FAST / SCALE CLEAN</td>
+    <td>MUMBAI, INDIA</td>
+  </tr>
+</table>
+
+---
+
+<h2 id="01-profile">01 / PROFILE</h2>
+
+<table width="100%">
+  <tr>
+    <td width="64%" valign="top">
+      <h3>ENGINEERING, WITH TASTE.</h3>
       <p>
-        I turn ambitious ideas into real products — fast, scalable, and production-ready.
+        I’m <b>Fareed Sayed</b> — a builder working across AI, backend systems and full-stack product engineering.
+        I like taking an idea from a rough note to something people can actually use: architecture, APIs, product flows,
+        deployment, polish — the whole thing.
       </p>
       <p>
-        My focus is AI-powered experiences, reliable backend systems, and clean full-stack delivery.
-      </p>
-      <p>
-        I care about two things: strong engineering under the hood and a premium feel on the surface.
-      </p>
-      <p>
-        <img src="https://img.shields.io/badge/AI%20Products-8A2BE2?style=flat-square&labelColor=0d1117" />
-        <img src="https://img.shields.io/badge/Backend%20Systems-00B3FF?style=flat-square&labelColor=0d1117" />
-        <img src="https://img.shields.io/badge/Fullstack%20Experiences-00E7FF?style=flat-square&labelColor=0d1117" />
+        My sweet spot is where <b>serious engineering</b> meets <b>sharp product experience</b>. Fast is good. Reliable is better.
+        Shipping both is the goal.
       </p>
     </td>
-    <td width="40%" align="center" valign="middle">
-      <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="96%" alt="Hoodie Developer Visual" />
+    <td width="36%" valign="top">
+      <pre>
+CURRENT OPERATING SYSTEM
+
+→ AI-FIRST PRODUCTS
+→ BACKEND ARCHITECTURE
+→ PRODUCT ENGINEERING
+→ RAPID PROTOTYPING
+→ PRODUCTION DELIVERY
+      </pre>
     </td>
   </tr>
 </table>
 
-<h3 id="highlights">🧩 Highlights</h3>
-<p align="center">
-  <img src="assets/home-panels.svg" width="100%" alt="Homepage Highlight Panels" />
-</p>
+> **NO DECORATIVE TECH FOR THE SAKE OF IT.**  
+> Build the useful thing. Make it fast. Make it feel inevitable.
+
+<p align="right"><a href="#top">↑ BACK TO TOP</a></p>
+
+---
+
+<h2 id="02-building">02 / BUILDING</h2>
+
+<table width="100%">
+  <tr>
+    <td width="12%" align="center"><h1>01</h1></td>
+    <td>
+      <h3>AI-NATIVE PRODUCTS</h3>
+      <p>Agents, intelligent workflows, retrieval, automation and product experiences where AI is part of the system — not a sticker added at the end.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="12%" align="center"><h1>02</h1></td>
+    <td>
+      <h3>BACKENDS THAT CAN TAKE A HIT</h3>
+      <p>APIs, async workers, queues, databases, caching, auth, integrations and the boring-but-critical pieces that keep software alive after launch day.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="12%" align="center"><h1>03</h1></td>
+    <td>
+      <h3>FULL-STACK PRODUCT DELIVERY</h3>
+      <p>From UX decisions and frontend systems to deployment and observability. I prefer owning the complete path from idea → shipped product.</p>
+    </td>
+  </tr>
+</table>
+
+<br />
 
 <p align="center">
-  <img src="assets/github-snake.svg" width="100%" alt="Snake Animation" />
+  <img src="https://img.shields.io/badge/BUILD-PRODUCTS-000000?style=for-the-badge&labelColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/SHIP-PRODUCTION-FFFFFF?style=for-the-badge&labelColor=000000" />
+  <img src="https://img.shields.io/badge/ITERATE-RELENTLESSLY-000000?style=for-the-badge&labelColor=FFFFFF" />
 </p>
 
-<h3 id="analytics">📊 Analytics</h3>
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Fareed95&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img width="49%" src="https://streak-stats.demolab.com?user=Fareed95&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
+<p align="right"><a href="#top">↑ BACK TO TOP</a></p>
 
-<p align="center">
-  <img width="44%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fareed95&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-  <img width="54%" src="https://github-profile-trophy.vercel.app/?username=Fareed95&theme=onestar&no-frame=true&no-bg=true&margin-w=8&row=1&column=3" alt="GitHub Trophies" />
-</p>
+---
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Fareed95&theme=tokyo-night&hide_border=true&radius=12" alt="Activity Graph" />
-</p>
+<h2 id="03-stack">03 / STACK</h2>
 
-<h3 id="connect">🌐 Connect</h3>
-<p align="center">
-  <a href="https://www.linkedin.com/in/fareed-sayed-b39936280/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:fareedsayed95@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/fareed_sayed_05" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://x.com/fareedsayed95" target="_blank">
-    <img src="https://img.shields.io/badge/X-111111?style=for-the-badge&logo=x&logoColor=white" />
-  </a>
-</p>
+<table width="100%">
+  <tr>
+    <td width="25%"><b>FRONTEND</b></td>
+    <td>Next.js · React · TypeScript · Tailwind CSS</td>
+  </tr>
+  <tr>
+    <td><b>BACKEND</b></td>
+    <td>Python · FastAPI · Node.js · REST APIs · Workers</td>
+  </tr>
+  <tr>
+    <td><b>DATA</b></td>
+    <td>PostgreSQL · Supabase · Firebase · Redis</td>
+  </tr>
+  <tr>
+    <td><b>AI</b></td>
+    <td>LLM Systems · Agents · RAG · Tool Calling · Vision Workflows</td>
+  </tr>
+  <tr>
+    <td><b>INFRA</b></td>
+    <td>AWS · Docker · Vercel · GitHub Actions · Cloudinary</td>
+  </tr>
+</table>
+
+<br />
 
 <div align="center">
-  <h3>⚡ Feels like a website. Works like a profile.</h3>
+  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,python,fastapi,nodejs,postgres,supabase,firebase,redis,aws,docker,git,github&theme=light" alt="Technology stack" />
+</div>
+
+<p align="right"><a href="#top">↑ BACK TO TOP</a></p>
+
+---
+
+<h2 id="04-signal">04 / SIGNAL</h2>
+
+<table width="100%">
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=Fareed95&show_icons=true&hide_border=false&border_color=000000&title_color=000000&text_color=000000&icon_color=000000&bg_color=F5F5F0&include_all_commits=true&count_private=true" width="100%" alt="Fareed's GitHub stats" />
+    </td>
+    <td width="50%" align="center">
+      <img src="https://streak-stats.demolab.com?user=Fareed95&hide_border=false&border=000000&background=F5F5F0&ring=000000&fire=000000&currStreakLabel=000000&sideLabels=000000&currStreakNum=000000&sideNums=000000&dates=555555" width="100%" alt="Fareed's GitHub streak" />
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Fareed95&bg_color=F5F5F0&color=000000&line=000000&point=000000&area=true&area_color=CCCCCC&hide_border=false&custom_title=CONTRIBUTION%20SIGNAL" width="100%" alt="Contribution activity graph" />
+</p>
+
+<details>
+  <summary><b>MORE GITHUB SIGNAL ↓</b></summary>
+  <br />
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fareed95&layout=compact&hide_border=false&border_color=000000&title_color=000000&text_color=000000&bg_color=F5F5F0" width="48%" alt="Top languages" />
+  </p>
+</details>
+
+<p align="right"><a href="#top">↑ BACK TO TOP</a></p>
+
+---
+
+<h2 id="05-contact">05 / CONTACT</h2>
+
+<div align="center">
+  <h3>HAVE A HARD PROBLEM OR A WEIRD IDEA?</h3>
+  <p>That is usually the interesting part.</p>
+
+  <a href="https://www.linkedin.com/in/fareed-sayed-b39936280/">
+    <img src="https://img.shields.io/badge/LINKEDIN-FAREED_SAYED-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:fareedsayed95@gmail.com">
+    <img src="https://img.shields.io/badge/EMAIL-SAY_HELLO-FFFFFF?style=for-the-badge&logo=gmail&logoColor=black" alt="Email" />
+  </a>
+  <a href="https://www.instagram.com/fareed_sayed_05">
+    <img src="https://img.shields.io/badge/INSTAGRAM-@FAREED__SAYED__05-000000?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://x.com/fareedsayed95">
+    <img src="https://img.shields.io/badge/X-@FAREEDSAYED95-FFFFFF?style=for-the-badge&logo=x&logoColor=black" alt="X" />
+  </a>
+</div>
+
+<br />
+
+<table width="100%">
+  <tr>
+    <td align="left"><b>FAREED SAYED © 2026</b></td>
+    <td align="right"><b>DESIGNED LIKE A WEBSITE. SHIPPED AS A README.</b></td>
+  </tr>
+</table>
+
+<div align="center">
+  <br />
+  <img src="https://komarev.com/ghpvc/?username=Fareed95&label=PROFILE%20VIEWS&style=flat-square&color=000000" alt="Profile views" />
 </div>
