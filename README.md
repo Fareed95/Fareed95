@@ -4,15 +4,14 @@
 
 <br />
 
-<div align="center">
-  <a href="#01-profile"><b>01 / PROFILE</b></a>&nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;
-  <a href="#02-building"><b>02 / BUILDING</b></a>&nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;
-  <a href="#03-stack"><b>03 / STACK</b></a>&nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;
-  <a href="#04-signal"><b>04 / SIGNAL</b></a>&nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;
-  <a href="#05-contact"><b>05 / CONTACT</b></a>
-</div>
-
-<br />
+<!-- SVG NAVIGATION: each visual button is independently clickable -->
+<p align="center">
+  <a href="#top"><img src="assets/nav-home.svg" alt="Home" width="18%" /></a>
+  <a href="#01-profile"><img src="assets/nav-about.svg" alt="Profile" width="18%" /></a>
+  <a href="#02-building"><img src="assets/nav-highlights.svg" alt="Building" width="18%" /></a>
+  <a href="#04-signal"><img src="assets/nav-analytics.svg" alt="Signal" width="18%" /></a>
+  <a href="#05-contact"><img src="assets/nav-connect.svg" alt="Contact" width="18%" /></a>
+</p>
 
 <table width="100%">
   <tr>
@@ -35,7 +34,7 @@
 
 <table width="100%">
   <tr>
-    <td width="64%" valign="top">
+    <td width="62%" valign="top">
       <h3>ENGINEERING, WITH TASTE.</h3>
       <p>
         I’m <b>Fareed Sayed</b> — a builder working across AI, backend systems and full-stack product engineering.
@@ -46,8 +45,6 @@
         My sweet spot is where <b>serious engineering</b> meets <b>sharp product experience</b>. Fast is good. Reliable is better.
         Shipping both is the goal.
       </p>
-    </td>
-    <td width="36%" valign="top">
       <pre>
 CURRENT OPERATING SYSTEM
 
@@ -57,6 +54,9 @@ CURRENT OPERATING SYSTEM
 → RAPID PROTOTYPING
 → PRODUCTION DELIVERY
       </pre>
+    </td>
+    <td width="38%" align="center" valign="middle">
+      <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="96%" alt="Hoodie developer visual" />
     </td>
   </tr>
 </table>
@@ -94,8 +94,6 @@ CURRENT OPERATING SYSTEM
   </tr>
 </table>
 
-<br />
-
 <p align="center">
   <img src="https://img.shields.io/badge/BUILD-PRODUCTS-000000?style=for-the-badge&labelColor=FFFFFF" />
   <img src="https://img.shields.io/badge/SHIP-PRODUCTION-FFFFFF?style=for-the-badge&labelColor=000000" />
@@ -109,32 +107,17 @@ CURRENT OPERATING SYSTEM
 <h2 id="03-stack">03 / STACK</h2>
 
 <table width="100%">
-  <tr>
-    <td width="25%"><b>FRONTEND</b></td>
-    <td>Next.js · React · TypeScript · Tailwind CSS</td>
-  </tr>
-  <tr>
-    <td><b>BACKEND</b></td>
-    <td>Python · FastAPI · Node.js · REST APIs · Workers</td>
-  </tr>
-  <tr>
-    <td><b>DATA</b></td>
-    <td>PostgreSQL · Supabase · Firebase · Redis</td>
-  </tr>
-  <tr>
-    <td><b>AI</b></td>
-    <td>LLM Systems · Agents · RAG · Tool Calling · Vision Workflows</td>
-  </tr>
-  <tr>
-    <td><b>INFRA</b></td>
-    <td>AWS · Docker · Vercel · GitHub Actions · Cloudinary</td>
-  </tr>
+  <tr><td width="25%"><b>FRONTEND</b></td><td>Next.js · React · TypeScript · Tailwind CSS</td></tr>
+  <tr><td><b>BACKEND</b></td><td>Python · FastAPI · Node.js · REST APIs · Workers</td></tr>
+  <tr><td><b>DATA</b></td><td>PostgreSQL · Supabase · Firebase · Redis</td></tr>
+  <tr><td><b>AI</b></td><td>LLM Systems · Agents · RAG · Tool Calling · Vision Workflows</td></tr>
+  <tr><td><b>INFRA</b></td><td>AWS · Docker · Vercel · GitHub Actions · Cloudinary</td></tr>
 </table>
 
 <br />
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,python,fastapi,nodejs,postgres,supabase,firebase,redis,aws,docker,git,github&theme=light" alt="Technology stack" />
+  <img src="assets/trying.svg" width="100%" alt="Animated technology stack" />
 </div>
 
 <p align="right"><a href="#top">↑ BACK TO TOP</a></p>
@@ -158,6 +141,11 @@ CURRENT OPERATING SYSTEM
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Fareed95&bg_color=F5F5F0&color=000000&line=000000&point=000000&area=true&area_color=CCCCCC&hide_border=false&custom_title=CONTRIBUTION%20SIGNAL" width="100%" alt="Contribution activity graph" />
 </p>
 
+<h3 align="center">CONTRIBUTIONS / IN MOTION</h3>
+<p align="center">
+  <img src="assets/github-snake.svg" width="100%" alt="GitHub contribution snake animation" />
+</p>
+
 <details>
   <summary><b>MORE GITHUB SIGNAL ↓</b></summary>
   <br />
@@ -176,18 +164,10 @@ CURRENT OPERATING SYSTEM
   <h3>HAVE A HARD PROBLEM OR A WEIRD IDEA?</h3>
   <p>That is usually the interesting part.</p>
 
-  <a href="https://www.linkedin.com/in/fareed-sayed-b39936280/">
-    <img src="https://img.shields.io/badge/LINKEDIN-FAREED_SAYED-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:fareedsayed95@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL-SAY_HELLO-FFFFFF?style=for-the-badge&logo=gmail&logoColor=black" alt="Email" />
-  </a>
-  <a href="https://www.instagram.com/fareed_sayed_05">
-    <img src="https://img.shields.io/badge/INSTAGRAM-@FAREED__SAYED__05-000000?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="https://x.com/fareedsayed95">
-    <img src="https://img.shields.io/badge/X-@FAREEDSAYED95-FFFFFF?style=for-the-badge&logo=x&logoColor=black" alt="X" />
-  </a>
+  <a href="https://www.linkedin.com/in/fareed-sayed-b39936280/"><img src="https://img.shields.io/badge/LINKEDIN-FAREED_SAYED-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:fareedsayed95@gmail.com"><img src="https://img.shields.io/badge/EMAIL-SAY_HELLO-FFFFFF?style=for-the-badge&logo=gmail&logoColor=black" alt="Email" /></a>
+  <a href="https://www.instagram.com/fareed_sayed_05"><img src="https://img.shields.io/badge/INSTAGRAM-@FAREED__SAYED__05-000000?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://x.com/fareedsayed95"><img src="https://img.shields.io/badge/X-@FAREEDSAYED95-FFFFFF?style=for-the-badge&logo=x&logoColor=black" alt="X" /></a>
 </div>
 
 <br />
