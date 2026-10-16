@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="210" height="44" viewBox="0 0 210 44" role="img" aria-label="ABOUT button">
+  <defs>
+    <linearGradient id="g" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#9d4edd"/>
+      <stop offset="100%" stop-color="#c77dff"/>
+    </linearGradient>
+  </defs>
+  <rect x="1" y="1" width="208" height="42" rx="13" fill="#130f23" stroke="url(#g)" stroke-width="2"/>
+  <text x="105" y="28" text-anchor="middle" font-family="Orbitron,Segoe UI,Arial,sans-serif" font-size="17" font-weight="700" fill="#efe2ff">ABOUT</text>
+</svg>

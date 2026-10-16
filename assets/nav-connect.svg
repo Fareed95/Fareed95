@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="210" height="44" viewBox="0 0 210 44" role="img" aria-label="CONNECT button">
+  <defs>
+    <linearGradient id="g" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#c77dff"/>
+      <stop offset="100%" stop-color="#7b2cbf"/>
+    </linearGradient>
+  </defs>
+  <rect x="1" y="1" width="208" height="42" rx="13" fill="#1a1027" stroke="url(#g)" stroke-width="2"/>
+  <text x="105" y="28" text-anchor="middle" font-family="Orbitron,Segoe UI,Arial,sans-serif" font-size="16" font-weight="700" fill="#f5e9ff">CONNECT</text>
+</svg>

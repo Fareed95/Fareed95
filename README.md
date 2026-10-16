@@ -7,11 +7,11 @@
 </p>
 
 <p align="center">
-  <a href="#home"><img src="https://img.shields.io/badge/HOME-0f172a?style=flat-square&logoColor=00e5ff&labelColor=00e5ff&color=0f172a" /></a>
-  <a href="#about"><img src="https://img.shields.io/badge/ABOUT-0f172a?style=flat-square&logoColor=9d4edd&labelColor=9d4edd&color=0f172a" /></a>
-  <a href="#highlights"><img src="https://img.shields.io/badge/HIGHLIGHTS-0f172a?style=flat-square&logoColor=00f5d4&labelColor=00f5d4&color=0f172a" /></a>
-  <a href="#analytics"><img src="https://img.shields.io/badge/ANALYTICS-0f172a?style=flat-square&logoColor=00bbf9&labelColor=00bbf9&color=0f172a" /></a>
-  <a href="#connect"><img src="https://img.shields.io/badge/CONNECT-0f172a?style=flat-square&logoColor=c77dff&labelColor=c77dff&color=0f172a" /></a>
+  <a href="#home"><img src="assets/nav-home.svg" alt="Home" /></a>
+  <a href="#about"><img src="assets/nav-about.svg" alt="About" /></a>
+  <a href="#highlights"><img src="assets/nav-highlights.svg" alt="Highlights" /></a>
+  <a href="#analytics"><img src="assets/nav-analytics.svg" alt="Analytics" /></a>
+  <a href="#connect"><img src="assets/nav-connect.svg" alt="Connect" /></a>
 </p>
 
 <p align="center">
@@ -29,11 +29,13 @@
     <td width="60%" valign="top" id="about">
       <h3>⚡ About</h3>
       <p>
-        I build AI-first digital products with a strong focus on backend architecture,
-        performance, and clean product experience.
+        I turn ambitious ideas into real products — fast, scalable, and production-ready.
       </p>
       <p>
-        From idea to deployment, I like shipping fast and making it look premium.
+        My focus is AI-powered experiences, reliable backend systems, and clean full-stack delivery.
+      </p>
+      <p>
+        I care about two things: strong engineering under the hood and a premium feel on the surface.
       </p>
       <p>
         <img src="https://img.shields.io/badge/AI%20Products-8A2BE2?style=flat-square&labelColor=0d1117" />
